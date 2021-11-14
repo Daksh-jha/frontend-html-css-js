@@ -8,7 +8,7 @@
 
 <a href="https://github.com/Dezenix/frontend-html-css-js"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/Dezenix/frontend-html-css-js"><img src="https://img.shields.io/badge/Built%20by-Designers-0059b3"></a>
-<a href="https://github.com/Dezenix/frontend-html-css-js"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/Dezenix/frontend-html-css-js"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=aqua"></a>
 <a href="https://github.com/Dezenix/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
 <a href="https://github.com/Dezenix/frontend-html-css-js/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
 
